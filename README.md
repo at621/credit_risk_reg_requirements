@@ -22,7 +22,7 @@ This helps reduce the scope of your queries and can significantly lower computat
 
 #### Usage Instructions
 
-Below is a simple example of how to load the CSV file using Python’s **pandas**:
+Below is an example of how to load the CSV file using Python’s **pandas**:
 
 ```python
 import pandas as pd
