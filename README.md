@@ -1,4 +1,4 @@
-# Credit Risk Modelling Regulatory Requirements
+### Credit Risk Modelling Regulatory Requirements
 
 This repository contains regulatory requirements for credit risk modelling in a CSV file. The included references are:
 
@@ -16,11 +16,11 @@ This repository contains regulatory requirements for credit risk modelling in a 
 
 ---
 
-## Recommended Usage with ChatGPT
+#### Recommended Usage with ChatGPT
 When using this repository with ChatGPT, it is strongly recommended to create additional indices for pre-filtering.   
 This helps reduce the scope of your queries and can significantly lower computation costs.  
 
-## Usage Instructions
+#### Usage Instructions
 
 Below is a simple example of how to load the CSV file using Python’s **pandas**:
 
