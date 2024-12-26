@@ -19,16 +19,3 @@ This repository contains regulatory requirements for credit risk modelling in a 
 #### Recommended Usage with ChatGPT
 When using this repository with ChatGPT, it is strongly recommended to create additional indices for pre-filtering.   
 This helps reduce the scope of your queries and can significantly lower computation costs.  
-
-#### Usage Instructions
-
-Below is an example of how to load the CSV file using Python’s **pandas**:
-
-```python
-import pandas as pd
-
-# Load the CSV file
-reg_requirements = pd.read_csv('eu_modelling_requirements.csv', sep=r'|', engine='python')
-
-# Preview the first two rows
-reg_requirements.head(2)
